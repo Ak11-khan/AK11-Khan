@@ -1,4 +1,4 @@
-💫 About Me
+## 💫 **About Me**
 Hi 👋! I'm Arfa Khan, a passionate Web Developer. I specialize in HTML, CSS, JavaScript, React,Bootstrap, and TailwindCSS. I love building user-friendly, responsive web applications and constantly improving my skills, especially in React.
 
 Feel free to explore my repositories and connect with me for collaborations or new opportunities. Let's build something amazing together! 🚀
@@ -48,7 +48,7 @@ Feel free to explore my repositories and connect with me for collaborations or n
 
 ## 📜 Random Quote
 
-<p align="center">
+<p align="center" font-size="16px">
   <i>"The only way to do great work is to love what you do." – Steve Jobs</i>
 </p>
 
